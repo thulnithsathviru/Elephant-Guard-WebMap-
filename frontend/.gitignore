@@ -1,0 +1,54 @@
+# Node.js
+node_modules/
+*.log
+*.env
+.DS_Store
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+*.stackdump
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Static files
+public/assets/
+
+# Coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+
+# Miscellaneous
+*.cache
+*.pid
+*.seed
+*.state
+*.log
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
