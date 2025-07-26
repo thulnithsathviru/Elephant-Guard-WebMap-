@@ -281,7 +281,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions or support, please contact:
 - Email: thulnithsathviruofficial@gmail.com
 - LinkedIn: [[your-linkedin-profile]](https://www.linkedin.com/in/thulnith-sathviru?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- GitHub Issues: [repository-issues-url]
 
 ---
 
